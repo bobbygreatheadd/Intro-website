@@ -1,0 +1,30 @@
+
+body {
+	font-family: "Helvetica", Helvetica, cursive;
+	font-size: 24px;
+	background-color: #F1F5ED;
+}
+
+h1 {
+	background-color: #D6E0CC;
+	color: #63A56C;
+	text-align: center;
+	border-style: solid;
+	border-width: thick;
+}
+
+h3 {
+	color: #63A56C;
+}
+
+.parent {
+	margin: 1rem;
+	padding: 2rem 2rem;
+	text-align: center;
+}
+
+.child {
+	display: inline-block;
+	padding: 1rem 2reml;
+	vertical-align: middle;
+}
